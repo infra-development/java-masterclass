@@ -15,7 +15,7 @@ public class Test2 {
        if else switch case default while do for break continue return // 11
 
        keywords for modifiers
-       *public privet protected static find abstract synchronised native strictfp(1.2v) arnsient(1.2v) volatile // 11
+       public, privet, protected, static, final, abstract, synchronized, native, strictfp(1.2v), transient(1.2v), volatile // 11
 
        keywords for exception handling
        try catch finally throw, throws assert(1.4w) // 6
