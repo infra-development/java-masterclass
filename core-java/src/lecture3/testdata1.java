@@ -59,7 +59,7 @@ public class testdata1 {
     Range: 0 to 65535
 
     summary of java primitive data types
-    Null is default value for object difference, and we can't apply for primitive if we are trying to use for primitive then
+    Null is default value for object difference, and we can't apply for primitive if we are trying to use for primitive  then
     we get compile time error        ex: ce: ch = null;
                                             found : <null type>
                                             required: char
